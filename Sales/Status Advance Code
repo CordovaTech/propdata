@@ -1,1 +1,2 @@
 Select * from everything_table
+Limit 10
